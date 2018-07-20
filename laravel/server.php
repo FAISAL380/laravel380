@@ -1,5 +1,9 @@
 <?php
+< HEAD
 //adnan
+
+//faisal
+>
 /**
  * Laravel - A PHP Framework For Web Artisans
  *
